@@ -25,7 +25,6 @@ const Footer = () => {
           </a>
         </div>
 
-        {/* Copyright */}
         <p className="text-sm">
           &copy; {new Date().getFullYear()} Bruno Silvera. Todos los derechos reservados.
         </p> 
